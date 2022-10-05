@@ -23,8 +23,10 @@ Create a simple app where admins can create interviews by selecting participants
 `npm start`
 
 
-### Your system should have mongoDB server already installed and running in order to connect to database.
+### install MongoDB to your computer and keep the server running before npm start.
 
 
-#### Here is the screenshot of the working system / frontend.
-![Screenshot (102)](https://user-images.githubusercontent.com/63994999/146682101-17bc15d5-aa86-4be3-aca6-b27f9f9001ff.png)
+
+
+
+
